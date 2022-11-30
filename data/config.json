@@ -1,1 +1,13 @@
-{}
+{
+    "features": {
+        "autofarm": {
+            "enabled": false,
+            "health_check": true
+        },
+        "killaura": {
+            "enabled": false,
+            "hits": 0,
+            "swing_delay": 0
+        }
+    }
+}
