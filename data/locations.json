@@ -1,171 +1,370 @@
 {
-  "4789838965": {
-    "name": "The Pit",
-    "entities": ["Possum the Devourer", "Pit Ratty", "Reanimated Slime", "Big Slime", "Slime", "Baby Slime", "Batty", "Ratty"],
-    "fish": ["Rockfish", "Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2060360203": {
-    "name": "Mushroom Grotto",
-    "entities": ["Chad", "Poisoned Shroom", "Elder Shroom", "Shroom"],
-    "fish": []
-  },
-  "2035250551": {
-    "name": "Mushroom Forest",
-    "entities": ["Rootbeard", "Elder Shroom", "Shroom", "Baby Shroom"],
-    "fish": ["Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2119298605": {
-    "name": "Nilgarf",
-    "entities": ["Chicken"],
-    "fish": ["Rockfish", "Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "8099500374": {
-    "name": "Scruff's Farm",
-    "entities": ["Cow", "Chicken"]
+  "2470481225": {
+    "paths": [
+      { "id": "3852057184", "weight": 0 },
+      { "id": "4837338537", "weight": 0 },
+      { "id": "9247372025", "weight": 0 }
+    ],
+    "entities": [
+      "The Yeti",
+      "Mama Bear",
+      "Redwood Bandit Leader",
+      "Bear",
+      "Ram",
+      "Baby Yeti",
+      "Guardian",
+      "Treemuk",
+      "Redwood Bandit",
+      "Redwood Ranger",
+      "Redwood Mage",
+      "Mountain Bandit",
+      "Mountain Ranger",
+      "Mountain Mage"
+    ],
+    "name": "Redwood Stronghold"
   },
   "3852057184": {
-    "name": "Great Crossroads",
-    "entities": ["Scarecrow", "Crabby", "Hog", "Cow", "Chicken"],
-    "fish": ["Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "5986816252": {
-    "name": "Gorgog Pond",
-    "entities": [],
-    "fish": ["Fraud Gorgog Fish", "Gorgog Fish"]
+    "paths": [
+      { "id": "3112029149", "weight": 0 },
+      { "id": "2878620739", "weight": 0 },
+      { "id": "2546689567", "weight": 0 },
+      { "id": "2470481225", "weight": 0 },
+      { "id": "2119298605", "weight": 0 },
+      { "id": "2064647391", "weight": 0 }
+    ],
+    "entities": [
+      "Scarecrow",
+      "Hog",
+      "Chicken",
+      "Crabby",
+      "Cow",
+      "Boar",
+      "Crow"
+    ],
+    "name": "Great Crossroads"
   },
   "3232913902": {
-    "name": "Shiprock Bottom",
-    "entities": ["Snelly", "Snel Snel", "Snelleth", "Snelvin"],
-    "fish": ["Angler Fish", "Hammerhead Shark", "Sand Shark", "Sea Horse", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "3112029149": {
-    "name": "Tree of Life",
-    "entities": [],
-    "fish": ["Angler Fish", "Speckled Fish", "Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2064647391": {
-    "name": "Mushtown",
-    "entities": ["Shroom", "Baby Shroom", "Chicken"],
-    "fish": ["Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2470481225": {
-    "name": "Warrior Stronghold",
-    "entities": [],
-    "fish": ["Cat Fish", "Pebble Fish", "Sand Shark", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2376890690": {
-    "name": "Redwood Pass",
-    "entities": ["The Yeti", "Baby Yeti",  "Guardian", "Treemuk"],
-    "fish": ["Cat Fish", "Pebble Fish", "Sand Shark", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2093766642": {
-    "name": "Seaside Path",
-    "entities": ["Crabby", "Hog", "Chicken"],
-    "fish": ["Blood Fish", "Vibrant Fish", "Rockfish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2677014001": {
-    "name": "Spider Queen's Lair",
-    "entities": ["Spider Queen", "Royal Spider", "Spiderling"],
-    "fish": []
-  },
-  "3360349837": {
-    "name": "The Gauntlet (Hunter Occupied)",
-    "entities": [],
-    "fish": []
-  },
-  "2878620739": {
-    "name": "Nilgarf Sewers",
-    "entities": ["Batty", "Ratty"],
-    "fish": ["Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2260598172": {
-    "name": "Enchanted Forest",
-    "entities": ["Royal Spider", "Spider", "Spiderling", "Goblin Shaman", "Goblin"],
-    "fish": ["Angler Fish", "Speckled Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
+    "paths": [
+      { "id": "9725582014", "weight": 0 },
+      { "id": "2546689567", "weight": 0 }
+    ],
+    "entities": [
+      "Mama Hermit Crabby",
+      "Terror of the Deep",
+      "Coral Hermit Crabby",
+      "Supercharged Jellyfish",
+      "Charged Jellyfish",
+      "Jellyfish",
+      "Snelly",
+      "Snel Snel",
+      "Snelleth",
+      "Snelvin"
+    ],
+    "name": "Shiprock Bottom"
   },
   "3273679677": {
-    "name": "Mushtropolis",
-    "entities": ["Elder Chad", "Chad", "Starshroom", "Battering Shroom", "Elite Shroomgloko", "Shroomgloko", "Guard Shroom", "Shroommuk", "Sage Shroom", "Poisoned Shroom", "Eldest Shroom", "Very Old Shroom", "Elder Shroom", "Shroom", "Tough Baby Shroom", "Baby Shroom"],
-    "fish": ["Rockfish", "Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2060556572": {
-    "name": "The Clearing",
-    "entities": ["Hog", "Baby Shroom"],
-    "fish": ["Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "5995061312": {
-    "name": "Gorgog Lab",
-    "entities": ["Gorgog Guardian"],
-    "fish": []
-  },
-  "3207211233": {
-    "name": "Spider Abyss",
-    "entities": ["Spider Queen", "Spider Prince", "Shield Generator", "Spider Egg Pile", "Spider", "Spiderling"],
-    "fish": []
-  },
-  "2496503573": {
-    "name": "Colosseum",
-    "entities": ["Guardian"],
-    "fish": []
-  },
-  "2471035818": {
-    "name": "Scallop Shores",
-    "entities": ["Rubee", "Crabby"],
-    "fish": ["Blood Fish", "Mahi Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "3460262616": {
-    "name": "Lost Corridor",
-    "entities": [],
-    "fish": ["Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "3806158069": {
-    "name": "Forsaken Isle",
-    "entities": ["Mo Ko Tu Aa", "Elder Forsaken Crabby", "Forsaken Crabby", "Moglo", "Mogloko"],
-    "fish": ["Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2376885433": {
-    "name": "Menu",
-    "entities": [],
-    "fish": []
-  },
-  "4282412540": {
-    "name": "Aboard the Wayfarer",
-    "entities": [],
-    "fish": ["Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2544075708": {
-    "name": "Crabby Den",
-    "entities": ["Crabby"],
-    "fish": ["Rockfish", "Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "3303140173": {
-    "name": "Whispering Dunes",
-    "entities": ["Sarakis the Impaler", "Auktufiti the Watcher", "Azariah the Blood-crazed", "Scarab", "Deathsting", "Dustwurm", "Bandit Skirmisher", "Bandit", "Stingtail"],
-    "fish": ["Rockfish", "Zebra Fish", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "2546689567": {
-    "name": "Port Fidelio",
-    "entities": ["Chicken"],
-    "fish": ["Blood Fish", "Mahi Fish", "Sand Shark", "Fresh Fish", "Yellow Pufferfish", "Big Brown Fish"]
-  },
-  "9725582014": {
-    "name": "Terul's Maw",
-    "entities": ["Aevrul the Executioner", "Sunken Savage", "First Mate", "Anchor Pirate", "Pirate", "Terror of the Deep", "Baby Terror", "Bell Hermit Crabby", "Elder Hermit Crabby", "Hermit Crabby", "Baby Hermit Crabby"],
-    "fish": []
-  },
-  "00": {
-    "name": "The Gauntlet",
-    "entities": ["Gate", "Gatekeeper Yakua", "Bandit-trained Battle Stingtail", "Bandit Skirmisher", "Bandit"],
-    "fish": []
+    "paths": [],
+    "entities": [
+      "Elder Chad",
+      "Chad",
+      "Starshroom",
+      "Battering Shroom",
+      "Elite Shroomgloko",
+      "Shroomgloko",
+      "Guard Shroom",
+      "Shroommuk",
+      "Sage Shroom",
+      "Poisoned Shroom",
+      "Eldest Shroom",
+      "Very Old Shroom",
+      "Elder Shroom",
+      "Shroom",
+      "Tough Baby Shroom",
+      "Baby Shroom"
+    ],
+    "name": "Mushtropolis"
   },
   "11405223182": {
-    "name": "Captain's Quarters",
+    "paths": [],
     "entities": ["Pirate Captain"],
-    "fish": []
+    "name": "Captain's Quarters"
   },
-  "02": {
-    "name": "Ethera's Colosseum",
-    "entities": ["Ethera", "Guardian"],
-    "fish": []
+  "2064647391": {
+    "paths": [
+      { "id": "2878620739", "weight": 0 },
+      { "id": "3852057184", "weight": 0 }
+    ],
+    "entities": [
+      "Chad",
+      "Rootbeard",
+      "Orc Warrior",
+      "Orc Brute",
+      "Orc Savage",
+      "Baby Ratty",
+      "Rock Slime",
+      "Hog",
+      "Cow",
+      "Elder Shroom",
+      "Shroom",
+      "Poisoned Shroom",
+      "Baby Shroom",
+      "Chicken"
+    ],
+    "name": "Mushtown"
+  },
+  "3360349837": {
+    "paths": [
+      { "id": "2546689567", "weight": 0 },
+      { "id": "3303140173", "weight": 0 }
+    ],
+    "entities": [],
+    "name": "The Gauntlet (Hunter Occupied)"
+  },
+  "2677014001": {
+    "paths": [{ "id": "3112029149", "weight": 0 }],
+    "entities": ["Spider", "Spiderling", "Royal Spider"],
+    "name": "Spider Queen's Lair"
+  },
+  "5986816252": {
+    "paths": [{ "id": "4789838965", "weight": 0 }],
+    "entities": [],
+    "name": "Gorgog Pond"
+  },
+  "2496503573": {
+    "paths": [
+      { "id": "5995061312", "weight": 0 },
+      { "id": "2546689567", "weight": 0 },
+      { "id": "3460262616", "weight": 0 }
+    ],
+    "entities": [],
+    "name": "Colosseum"
+  },
+  "3207211233": {
+    "paths": [],
+    "entities": [
+      "Spider Queen",
+      "Spider Prince",
+      "Shield Generator",
+      "Spider Egg Pile",
+      "Spider",
+      "Spiderling"
+    ],
+    "name": "Spider Abyss"
+  },
+  "2471035818": {
+    "paths": [
+      { "id": "2093766642", "weight": 0 },
+      { "id": "2546689567", "weight": 0 },
+      { "id": "3232913902", "weight": 0 },
+      { "id": "3360349837", "weight": 0 }
+    ],
+    "entities": ["Rubee", "Crabby"],
+    "name": "Scallop Shores"
+  },
+  "4837338537": {
+    "paths": [{ "id": "2470481225", "weight": 0 }],
+    "entities": [],
+    "name": "Tribute Wars"
+  },
+  "2878620739": {
+    "paths": [
+      { "id": "2119298605", "weight": 0 },
+      { "id": "4789838965", "weight": 0 },
+      { "id": "2064647391", "weight": 0 }
+    ],
+    "entities": ["Ratty", "Batty"],
+    "name": "Nilgarf Sewers"
+  },
+  "2376885433": { "paths": [], "entities": [], "name": "Menu" },
+  "3460262616": {
+    "paths": [
+      { "id": "3112029149", "weight": 0 },
+      { "id": "2496503573", "weight": 0 }
+    ],
+    "entities": [],
+    "name": "Lost Corridor"
+  },
+  "9725582014": {
+    "paths": [{ "id": "3232913902", "weight": 0 }],
+    "entities": [
+      "Aevrul the Executioner",
+      "First Mate",
+      "Terror of the Deep",
+      "Baby Terror",
+      "Bell Hermit Crabby",
+      "Sunken Savage",
+      "Anchor Pirate",
+      "Pirate",
+      "Lobster",
+      "Elder Hermit Crabby",
+      "Hermit Crabby",
+      "Baby Hermit Crabby"
+    ],
+    "name": "Terul's Maw"
+  },
+  "2119298605": {
+    "paths": [
+      { "id": "3852057184", "weight": 0 },
+      { "id": "3852057184", "weight": 0 },
+      { "id": "3852057184", "weight": 0 },
+      { "id": "2878620739", "weight": 0 }
+    ],
+    "entities": ["Chicken"],
+    "name": "Nilgarf"
+  },
+  "3806158069": {
+    "paths": [
+      { "id": "9725582014", "weight": 10 },
+      { "id": "4282412540", "weight": 0 }
+    ],
+    "entities": [
+      "Mo Ko Tu Aa",
+      "Forsaken Crabby",
+      "Elder Forsaken Crabby",
+      "Moglo",
+      "Mogloko",
+      "Mo Crabby",
+      "Ko Crabby",
+      "Tu Crabby",
+      "Aa Crabby"
+    ],
+    "name": "Forsaken Isle"
+  },
+  "2544075708": {
+    "paths": [{ "id": "2546689567", "weight": 0 }],
+    "entities": ["Crabby"],
+    "name": "Crabby Den"
+  },
+  "5995061312": {
+    "paths": [{ "id": "2496503573", "weight": 0 }],
+    "entities": ["Gorgog Guardian"],
+    "name": "Gorgog Lab"
+  },
+  "9247372025": {
+    "paths": [{ "id": "2470481225", "weight": 0 }],
+    "entities": [],
+    "name": "Gates of Mourn"
+  },
+  "16039674538": {
+    "paths": [{ "id": "3112029149", "weight": 0 }],
+    "entities": [
+      "Master Miyamoto",
+      "Dragon Monk",
+      "Tortoise",
+      "Baby Tortoise",
+      "Bamboo Mage",
+      "Shinobi",
+      "Exalted Samurai",
+      "Samurai",
+      "Bushi",
+      "Ronin",
+      "Chicken"
+    ],
+    "name": "Dragon's Perch"
+  },
+  "4789838965": {
+    "paths": [
+      { "id": "5986816252", "weight": 0 },
+      { "id": "2878620739", "weight": 0 }
+    ],
+    "entities": [
+      "Possum the Devourer",
+      "Pit Ratty",
+      "Slime",
+      "Baby Slime",
+      "Big Slime",
+      "Reanimated Slime",
+      "Ratty",
+      "Batty",
+      "Hobo Bandit",
+      "Pit Batty",
+      "Pit Bandit",
+      "Meta Bandit",
+      "Divine Slime"
+    ],
+    "name": "The Pit"
+  },
+  "3303140173": {
+    "paths": [{ "id": "3360349837", "weight": 0 }],
+    "entities": [
+      "Sarakis the Impaler",
+      "Auktufiti the Watcher",
+      "Azariah the Blood-crazed",
+      "Scarab",
+      "Deathsting",
+      "Dustwurm",
+      "Bandit Skirmisher",
+      "Bandit",
+      "Stingtail"
+    ],
+    "name": "Whispering Dunes"
+  },
+  "2093766642": {
+    "paths": [
+      { "id": "2119298605", "weight": 0 },
+      { "id": "3852057184", "weight": 0 },
+      { "id": "2878620739", "weight": 0 },
+      { "id": "2544075708", "weight": 0 },
+      { "id": "2471035818", "weight": 0 },
+      { "id": "2064647391", "weight": 0 },
+      { "id": "2119298605", "weight": 0 }
+    ],
+    "entities": ["Crabby", "Hog", "Chicken"],
+    "name": "Seaside Path"
+  },
+  "3112029149": {
+    "paths": [
+      { "id": "3852057184", "weight": 0 },
+      { "id": "2677014001", "weight": 0 },
+      { "id": "3460262616", "weight": 0 },
+      { "id": "16039674538", "weight": 0 }
+    ],
+    "entities": [
+      "Enchiridion",
+      "Spider Jockey",
+      "Book",
+      "Lost Spirit",
+      "Fly Trap",
+      "Royal Spider",
+      "Caustic Spider",
+      "Spiderling",
+      "Spider",
+      "Hobgoblin",
+      "Hoblino",
+      "Elite Goblin",
+      "Shaman",
+      "Armored Goblin",
+      "Goblin",
+      "Enchanted Slime"
+    ],
+    "name": "Tree of Life"
+  },
+  "4282412540": {
+    "paths": [
+      { "id": "3806158069", "weight": 0 },
+      { "id": "2546689567", "weight": 0 }
+    ],
+    "entities": [],
+    "name": "Aboard the Wayfarer"
+  },
+  "2546689567": {
+    "paths": [
+      { "id": "2496503573", "weight": 0 },
+      { "id": "3852057184", "weight": 0 },
+      { "id": "2544075708", "weight": 0 },
+      { "id": "3360349837", "weight": 0 },
+      { "id": "3232913902", "weight": 0 },
+      { "id": "4282412540", "weight": 1 }
+    ],
+    "entities": [
+      "Horseshoe Crab",
+      "Target Rubee",
+      "Rubee",
+      "Elder Crabby",
+      "Crabby",
+      "Baby Crabby",
+      "Chicken"
+    ],
+    "name": "Port Fidelio"
   }
 }
