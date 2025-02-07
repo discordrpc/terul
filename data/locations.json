@@ -21,7 +21,8 @@
       "Mountain Ranger",
       "Mountain Mage"
     ],
-    "name": "Redwood Stronghold"
+    "name": "Redwood Stronghold",
+    "classes": ["Warrior", "Beserker", "Paladin", "Knight"]
   },
   "3852057184": {
     "paths": [
@@ -41,7 +42,8 @@
       "Boar",
       "Crow"
     ],
-    "name": "Great Crossroads"
+    "name": "Great Crossroads",
+    "classes": []
   },
   "3232913902": {
     "paths": [
@@ -60,7 +62,8 @@
       "Snelleth",
       "Snelvin"
     ],
-    "name": "Shiprock Bottom"
+    "name": "Shiprock Bottom",
+    "classes": []
   },
   "3273679677": {
     "paths": [],
@@ -82,12 +85,14 @@
       "Tough Baby Shroom",
       "Baby Shroom"
     ],
-    "name": "Mushtropolis"
+    "name": "Mushtropolis",
+    "classes": []
   },
   "11405223182": {
     "paths": [],
     "entities": ["Pirate Captain"],
-    "name": "Captain's Quarters"
+    "name": "Captain's Quarters",
+    "classes": []
   },
   "2064647391": {
     "paths": [
@@ -110,7 +115,8 @@
       "Baby Shroom",
       "Chicken"
     ],
-    "name": "Mushtown"
+    "name": "Mushtown",
+    "classes": []
   },
   "3360349837": {
     "paths": [
@@ -118,17 +124,20 @@
       { "id": "3303140173", "weight": 0 }
     ],
     "entities": [],
-    "name": "The Gauntlet (Hunter Occupied)"
+    "name": "The Gauntlet (Hunter Occupied)",
+    "classes": []
   },
   "2677014001": {
     "paths": [{ "id": "3112029149", "weight": 0 }],
     "entities": ["Spider", "Spiderling", "Royal Spider"],
-    "name": "Spider Queen's Lair"
+    "name": "Spider Queen's Lair",
+    "classes": []
   },
   "5986816252": {
     "paths": [{ "id": "4789838965", "weight": 0 }],
     "entities": [],
-    "name": "Gorgog Pond"
+    "name": "Gorgog Pond",
+    "classes": []
   },
   "2496503573": {
     "paths": [
@@ -137,7 +146,8 @@
       { "id": "3460262616", "weight": 0 }
     ],
     "entities": [],
-    "name": "Colosseum"
+    "name": "Colosseum",
+    "classes": []
   },
   "3207211233": {
     "paths": [],
@@ -149,7 +159,8 @@
       "Spider",
       "Spiderling"
     ],
-    "name": "Spider Abyss"
+    "name": "Spider Abyss",
+    "classes": []
   },
   "2471035818": {
     "paths": [
@@ -159,12 +170,14 @@
       { "id": "3360349837", "weight": 0 }
     ],
     "entities": ["Rubee", "Crabby"],
-    "name": "Scallop Shores"
+    "name": "Scallop Shores",
+    "classes": []
   },
   "4837338537": {
     "paths": [{ "id": "2470481225", "weight": 0 }],
     "entities": [],
-    "name": "Tribute Wars"
+    "name": "Tribute Wars",
+    "classes": []
   },
   "2878620739": {
     "paths": [
@@ -173,7 +186,8 @@
       { "id": "2064647391", "weight": 0 }
     ],
     "entities": ["Ratty", "Batty"],
-    "name": "Nilgarf Sewers"
+    "name": "Nilgarf Sewers",
+    "classes": []
   },
   "2376885433": { "paths": [], "entities": [], "name": "Menu" },
   "3460262616": {
@@ -182,10 +196,14 @@
       { "id": "2496503573", "weight": 0 }
     ],
     "entities": [],
-    "name": "Lost Corridor"
+    "name": "Lost Corridor",
+    "classes": []
   },
   "9725582014": {
-    "paths": [{ "id": "3232913902", "weight": 0 }],
+    "paths": [
+      { "id": "3232913902", "weight": 0 },
+      { "id": "3806158069", "weight": 0 }
+    ],
     "entities": [
       "Aevrul the Executioner",
       "First Mate",
@@ -200,7 +218,8 @@
       "Hermit Crabby",
       "Baby Hermit Crabby"
     ],
-    "name": "Terul's Maw"
+    "name": "Terul's Maw",
+    "classes": []
   },
   "2119298605": {
     "paths": [
@@ -210,7 +229,8 @@
       { "id": "2878620739", "weight": 0 }
     ],
     "entities": ["Chicken"],
-    "name": "Nilgarf"
+    "name": "Nilgarf",
+    "classes": []
   },
   "3806158069": {
     "paths": [
@@ -228,22 +248,26 @@
       "Tu Crabby",
       "Aa Crabby"
     ],
-    "name": "Forsaken Isle"
+    "name": "Forsaken Isle",
+    "classes": []
   },
   "2544075708": {
     "paths": [{ "id": "2546689567", "weight": 0 }],
     "entities": ["Crabby"],
-    "name": "Crabby Den"
+    "name": "Crabby Den",
+    "classes": []
   },
   "5995061312": {
     "paths": [{ "id": "2496503573", "weight": 0 }],
     "entities": ["Gorgog Guardian"],
-    "name": "Gorgog Lab"
+    "name": "Gorgog Lab",
+    "classes": []
   },
   "9247372025": {
     "paths": [{ "id": "2470481225", "weight": 0 }],
     "entities": [],
-    "name": "Gates of Mourn"
+    "name": "Gates of Mourn",
+    "classes": []
   },
   "16039674538": {
     "paths": [{ "id": "3112029149", "weight": 0 }],
@@ -260,7 +284,8 @@
       "Ronin",
       "Chicken"
     ],
-    "name": "Dragon's Perch"
+    "name": "Dragon's Perch",
+    "classes": []
   },
   "4789838965": {
     "paths": [
@@ -282,7 +307,8 @@
       "Meta Bandit",
       "Divine Slime"
     ],
-    "name": "The Pit"
+    "name": "The Pit",
+    "classes": []
   },
   "3303140173": {
     "paths": [{ "id": "3360349837", "weight": 0 }],
@@ -297,7 +323,8 @@
       "Bandit",
       "Stingtail"
     ],
-    "name": "Whispering Dunes"
+    "name": "Whispering Dunes",
+    "classes": []
   },
   "2093766642": {
     "paths": [
@@ -310,7 +337,8 @@
       { "id": "2119298605", "weight": 0 }
     ],
     "entities": ["Crabby", "Hog", "Chicken"],
-    "name": "Seaside Path"
+    "name": "Seaside Path",
+    "classes": []
   },
   "3112029149": {
     "paths": [
@@ -337,7 +365,8 @@
       "Goblin",
       "Enchanted Slime"
     ],
-    "name": "Tree of Life"
+    "name": "Tree of Life",
+    "classes": ["Mage", "Warlock", "Sorcerer", "Cleric", "Songweaver", "Shadowmancer"]
   },
   "4282412540": {
     "paths": [
@@ -345,7 +374,8 @@
       { "id": "2546689567", "weight": 0 }
     ],
     "entities": [],
-    "name": "Aboard the Wayfarer"
+    "name": "Aboard the Wayfarer",
+    "classes": []
   },
   "2546689567": {
     "paths": [
@@ -365,6 +395,7 @@
       "Baby Crabby",
       "Chicken"
     ],
-    "name": "Port Fidelio"
+    "name": "Port Fidelio",
+    "classes": ["Hunter", "Ranger", "Assassin", "Trickster", "Bard"]
   }
 }
